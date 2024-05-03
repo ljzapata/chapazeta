@@ -1,0 +1,4 @@
+Pagina Web CHAPA ZETA
+En esta era de la informacion, el mercado tiende hacia una digitalizacion de la relacion con las personas clientes, y a su vez estas exigen un actualizacion constante tanto del estado de su vehiculo al momento de la reparacion, como del estado de su siniestro en la etapa de presupuesto.
+La idea de lanzar un canal digital, mediante el cual se pueda mantener un contacto asincronico con las personas clientes, sigue en linea con el valor de transparencia que trata de pregonar e implementar la empresa. Un canal donde las personas clientes puedan acceder mediante un login a toda la informacion respecto de su vehiculo.
+
