@@ -18,6 +18,7 @@ Empresas con flota de vehiculos.
 3- SITIO TIENDA MAQUIN PARTS : https://www.maquinparts.com/p231/mesas-transportadoras - Barra lateral de categorias, busqueda agil. Filtros. tarjetar de productos
 4- SITIO INSTITUCIONAL ELLECKTRA : https://ellecktra.com/#beHiredEllecktra - Scroll. Secciones. Orden.
 5- SITIO CLAIM SERVICE : https://claimservices.io/form-prestadores.php - Moderna. Estilo.
+6- SITIO CERTIFIED FIRST : https://es.certifiedfirst.com/es/calcula-tu-presupuesto# - Presupuestos autogestionados e interactivos
 
 #ETAPAS DEL PRYECTO
 
