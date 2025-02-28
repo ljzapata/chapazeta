@@ -25,3 +25,5 @@ Empresas con flota de vehiculos.
 1- Web institucional: Pagina informativa y de contacto. Home + Nosotros + Novedades (Blog?) + COntacto/turnos
 2- Web clientes: Login, Perfil de usuario, Vehiculos, siniestros, presupuestos.
 3- Market place: Catalogo de productos, Carrito de compras, Cuentas Corrientes, medios de pago.
+4- Sistema de gestion produccion: Login empleados, roles de empleados, gestion de OT.
+5- Sistema de gestion integral: Contabilidad, proveedores, clientes, indicadores de gestion.
