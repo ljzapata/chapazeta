@@ -19,7 +19,7 @@ Empresas con flota de vehiculos.
 4- SITIO INSTITUCIONAL ELLECKTRA : https://ellecktra.com/#beHiredEllecktra - Scroll. Secciones. Orden.
 5- SITIO CLAIM SERVICE : https://claimservices.io/form-prestadores.php - Moderna. Estilo.
 6- SITIO CERTIFIED FIRST : https://es.certifiedfirst.com/es/calcula-tu-presupuesto# - Presupuestos autogestionados e interactivos
-7- SITIO CONECTION SOFT SERVICE: https://css.es/gestion-taller.html - Software de referencia, idea, 
+7- SITIO CONECTION SOFT SERVICE: https://css.es/gestion-taller.html - Software de referencia, idea, sistema modular 
 
 #ETAPAS DEL PRYECTO
 
