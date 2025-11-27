@@ -20,6 +20,7 @@ Empresas con flota de vehiculos.
 5- SITIO CLAIM SERVICE : https://claimservices.io/form-prestadores.php - Moderna. Estilo.
 6- SITIO CERTIFIED FIRST : https://es.certifiedfirst.com/es/calcula-tu-presupuesto# - Presupuestos autogestionados e interactivos
 7- SITIO CONECTION SOFT SERVICE: https://css.es/gestion-taller.html - Software de referencia, idea, sistema modular 
+8- SITIO RECAMBIOS DE CONFIANZA: https://www.recambiosdeconfianza.com/consejos-practicos/las-escobillas - Consejos practicos para clientes
 
 #ETAPAS DEL PRYECTO
 
